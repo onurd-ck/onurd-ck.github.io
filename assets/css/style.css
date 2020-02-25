@@ -22628,7 +22628,7 @@ body .pd-lf-30 {
 body #home {
   padding-top: 120px;
   padding-bottom: 100px;
-  background-color: #f7f6ff;
+  background-color: #f3efec;
   z-index: 999;
 }
 body .color-white {
@@ -22670,8 +22670,8 @@ body .btn-orange:hover {
 }
 body .btn-border {
   background-color: transparent;
-  border: 1px solid #685F98;
-  color: #685F98;
+  border: #56ACBF;
+  color: #56ACBF;
   padding: 10px 35px;
   border-radius: 23px;
 }
@@ -22776,14 +22776,14 @@ body #loading-page #loading-center-page #loading-center-absolute .loader .ball-p
 body .navbar-header .navbar-expand-lg .navbar-brand {
   font-size: 24px;
   font-weight: 600;
-  color: #685F98;
+  color: #56ACBF;
 }
 body .navbar-header .navbar-expand-lg .navbar-nav {
   margin-left: 100px;
 }
 body .navbar-header .navbar-expand-lg .navbar-nav li a {
   display: inline-block;
-  color: #1B1344;
+  color: #f1f1f1;
   font-size: 14px;
   padding: 15px 10px;
   font-weight: 400;
@@ -22806,10 +22806,10 @@ body .navbar-header .navbar-expand-lg .navbar-nav li a:hover:after {
   width: 100%;
 }
 body .navbar-header .navbar-expand-lg .navbar-nav li.active a {
-  color: #685F98;
+  color: #f1f1f1;
 }
 body .navbar-header .sticky {
-  background-color: #ffffff;
+  background-color: #595656;
   padding: 0;
   box-shadow: 0 8px 28px 2px rgba(61, 61, 61, 0.12);
 }
@@ -22825,10 +22825,10 @@ body .navbar-header .sticky .hamburger.is-opened-navi {
 body .navbar-header .sticky .navbar-brand {
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #685F98 !important;
+  color: #56ACBF !important;
 }
 body .navbar-header .sticky .navbar-nav li.active a {
-  color: #685F98 !important;
+  color: #f1f1f1 !important;
 }
 body .header-page .navbar-brand {
   padding-top: 10px;
@@ -22855,7 +22855,7 @@ body .hero:after {
   position: absolute;
   width: 35%;
   height: 100%;
-  background-color: #685F98;
+  background-color: #54c5de;
   top: 0;
   z-index: -9;
   right: 0;
@@ -22873,17 +22873,17 @@ body .hero .hero-text h2 {
   font-weight: 500;
   font-size: 38px;
   line-height: 42px;
-  color: #1B1344;
+  color: #56ACBF;
   margin-bottom: 20px;
 }
 body .hero .hero-text p {
   font-size: 16px;
-  color: #8F8F8F;
+  color: #f1f1f1;
   margin-bottom: 30px;
 }
 body .title-h2 {
   font-size: 42px;
-  color: #1B1344;
+  color: #56ACBF;
   line-height: 46px;
   margin-bottom: 20px;
   font-weight: 500;
@@ -23055,7 +23055,7 @@ body .shape-overlays__path:nth-of-type(2) {
   fill: #1B1344;
 }
 body .shape-overlays__path:nth-of-type(3) {
-  fill: #685F98;
+  fill: #56ACBF;
 }
 @-webkit-keyframes intervalHamburgerBorder {
   0% {
