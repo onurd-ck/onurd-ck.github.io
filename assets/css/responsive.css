@@ -116,7 +116,7 @@
   body .navbar-header .navbar-toggler {
     font-size: 22px;
     line-height: 1;
-    color: #685F98;
+    color: #54C5DE;
     padding: 0;
   }
   body .navbar-header .navbar-toggler span {
@@ -132,7 +132,7 @@
     padding: 0.5rem 1rem;
   }
   body .navbar-header .sticky .navbar-toggler {
-    color: #685F98;
+    color: #54C5DE;
   }
   body .navbar-header .navbar-collapse {
     background-color: #ffffff;
@@ -184,7 +184,7 @@
     margin-right: 0;
   }
   body .header-page .navbar-nav li a {
-    color: #1B1344 !important;
+    color: #56ACBF !important;
   }
   body .header-page .navbar-nav li a:after {
     top: 0 !important;
@@ -327,10 +327,10 @@
     top: 95%;
   }
   body .header-page .navbar-nav a {
-    color: #1B1344 !important;
+    color: #56ACBF !important;
   }
   body .header-page.sticky .navbar-toggler {
-    color: #685F98 !important;
+    color: #54C5DE !important;
   }
   body .navbar-collapse {
     position: relative;
@@ -343,7 +343,7 @@
   body .navbar-collapse li a {
     line-height: 20px !important;
     padding: 12px 10px !important;
-    color: #1B1344 !important;
+    color: #56ACBF !important;
   }
   body .navbar-collapse li .social-media {
     margin-left: 0 !important;
@@ -384,13 +384,13 @@
     color: #ffffff !important;
   }
   body .header-page .navbar-expand-lg .navbar-nav li a {
-    color: #1B1344 !important;
+    color: #56ACBF !important;
   }
   body .header-page .navbar-expand-lg .navbar-nav li a:after {
     top: 0 !important;
   }
   body .header-page .sticky .navbar-toggler {
-    color: #685F98;
+    color: #54C5DE;
   }
   body .blog-single-post .row {
     margin-left: 0;
@@ -449,7 +449,7 @@
   }
 
   .navbar-header .sticky .navbar-toggler {
-    color: #685F98;
+    color: #54C5DE;
     top: 20px;
     right: 30px;
   }

@@ -8,7 +8,7 @@
   body .hero .img-mockup {
     left: -180px;
     top: -130px;
-    background-color: #685F98;
+    background-color: #54C5DE;
   }
   body .hero .text-right img {
     margin-top: 80px;
@@ -84,7 +84,7 @@
     padding: 0.5rem 1rem;
   }
   body .navbar-header .sticky .navbar-toggler {
-    color: #685F98;
+    color: #54C5DE;
   }
   body .navbar-header .navbar-collapse {
     background-color: #ffffff;
@@ -111,7 +111,7 @@
     margin-right: 0;
   }
   body .header-page .navbar-nav li a {
-    color: #1B1344 !important;
+    color: #56ACBF !important;
   }
   body .header-page .navbar-nav li a:after {
     top: 0 !important;
@@ -226,7 +226,7 @@
   body .navbar-toggler {
     font-size: 22px;
     line-height: 1;
-    color: #685F98;
+    color: #54C5DE;
     padding: 0;
   }
   body .navbar-toggler span {
@@ -266,7 +266,7 @@
             box-shadow: none;
   }
   body .header-page .sticky .navbar-toggler {
-    color: #685F98;
+    color: #54C5DE;
   }
   body .sidebar-side .sidebar-categroies .catgeorie-list li a {
     font-size: 13px;
